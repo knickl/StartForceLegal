@@ -1,5 +1,5 @@
 Contact: mailto:startforceone@protonmail.com
 Expires: 2027-10-28T00:00:00.000Z
 Preferred-Languages: de, en
-Canonical: https://knickl.github.io/startforce-legal/.well-known/security.txt
-Policy: https://github.com/knickl/startforce-legal/blob/main/SECURITY.md
+Canonical: https://knickl.github.io/StartForceLegal/.well-known/security.txt
+Policy: https://github.com/knickl/StartForceLegal/blob/main/SECURITY.md

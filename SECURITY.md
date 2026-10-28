@@ -17,7 +17,7 @@ What helps us:
 You will receive an acknowledgement within **7 days**. We aim to fix confirmed issues in the next app release and will
 keep you informed. We will credit you in the release notes if you wish.
 
-Machine-readable contact (RFC 9116): <https://knickl.github.io/startforce-legal/.well-known/security.txt>
+Machine-readable contact (RFC 9116): <https://knickl.github.io/StartForceLegal/.well-known/security.txt>
 
 ## Scope
 
@@ -39,5 +39,5 @@ Sicherheitslücken bitte **per E-Mail** an **startforceone@protonmail.com** meld
 Zwei-Handy-Übertragung, der Netzaufbau (Wi-Fi Direct oder gemeinsames WLAN, Pairing-Code an/aus).
 
 Eingangsbestätigung innerhalb von **7 Tagen**; bestätigte Lücken werden mit dem nächsten App-Release behoben. Maschinenlesbarer
-Kontakt: <https://knickl.github.io/startforce-legal/.well-known/security.txt>. Sicherheitsfixes gibt es nur für die aktuelle
+Kontakt: <https://knickl.github.io/StartForceLegal/.well-known/security.txt>. Sicherheitsfixes gibt es nur für die aktuelle
 Version auf Google Play.
